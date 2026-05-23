@@ -1,6 +1,6 @@
 # Hi, I'm Alya 👋
 
-I'm an IT professional based in Jakarta, Indonesia, with 3+ years of experience
+I'm an IT professional based in Jakarta, Indonesia, with 4+ years of experience
 bridging the gap between technical teams and business needs.
 
 My day-to-day revolves around managing IT projects, handling system integrations,
